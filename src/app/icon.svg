@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect x="3" y="3" width="58" height="58" rx="18" fill="#173C65"/><path d="M9 39c9-7 16-7 23 0s14 7 23 0" fill="none" stroke="#69C6D0" stroke-width="4" stroke-linecap="round"/><path d="M10 48c8-6 15-6 22 0s15 6 23 0" fill="none" stroke="#E8B34E" stroke-width="3" stroke-linecap="round"/><text x="32" y="31" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="23" font-weight="800">C</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="30" fill="#163C6B" stroke="#0C2444" stroke-width="2"/>
+  <g fill="#68B7DD" opacity=".95">
+    <path d="M10 17h13v5H10zm31 0h13v5H41zM6 26h11v5H6zm41 0h11v5H47zM7 35h10v5H7zm40 0h11v5H47zM12 44h12v5H12zm28 0h12v5H40z"/>
+  </g>
+  <path d="M32 12c-10 0-17 9-17 22 0 13 6 22 17 22s17-9 17-22c0-13-7-22-17-22z" fill="#101820" stroke="#0B2038" stroke-width="1.5"/>
+  <path d="M32 25c-6 0-10 7-10 16 0 7 4 11 10 11s10-4 10-11c0-9-4-16-10-16z" fill="#F8FAF8"/>
+  <path d="M29 19c0-4 2-7 5-7 3 0 5 3 5 7l-1 8-7 1z" fill="#F0C43B"/>
+  <path d="m31 22-6 3 6 3m6-6 6 3-6 3" fill="#F0C43B" stroke="#D9A92A" stroke-width="1" stroke-linejoin="round"/>
+  <circle cx="27" cy="23" r="1.4" fill="#fff"/><circle cx="37" cy="23" r="1.4" fill="#fff"/>
+  <path d="m32 26 4 2-4 2-4-2z" fill="#F4B932"/>
+  <path d="m24 53 8-3 8 3-1 2H25z" fill="#F0B72F"/>
+</svg>
